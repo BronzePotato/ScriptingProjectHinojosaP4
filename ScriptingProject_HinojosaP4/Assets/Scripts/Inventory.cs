@@ -17,6 +17,11 @@ public class Inventory : MonoBehaviour
             gernades = gre;
             rockets = roc;
         }
+        public Stuff(int bul, float fu)
+        {
+            bullets = bul;
+            fuel = fu;
+        }
         public Stuff()
         {
             bullets = 1;
@@ -26,6 +31,8 @@ public class Inventory : MonoBehaviour
     }
 
     public Stuff myStuff = new Stuff(50, 5, 5);
+
+    public Stuff myOtherStuff = new Stuff(50, 1.5f);
 
     
     void Start()
