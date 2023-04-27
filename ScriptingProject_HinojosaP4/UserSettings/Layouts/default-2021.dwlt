@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 16
+  controlID: 103
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 17
+  controlID: 104
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 18
+  controlID: 105
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -371,24 +371,24 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
-    m_SearchArea: 0
+    m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\752909\Documents\Unity\GitHub\ScriptingProjectHinojosaP4\ScriptingProject_HinojosaP4
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 305b0000
-    m_LastClickedID: 23344
-    m_ExpandedIDs: 00000000085b00000a5b000000ca9a3bffffff7f
+    m_SelectedIDs: 0a5b0000
+    m_LastClickedID: 23306
+    m_ExpandedIDs: 00000000085b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: Scenes
@@ -507,7 +507,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 270
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -544,9 +544,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 76e7ffff
-      m_LastClickedID: -6282
-      m_ExpandedIDs: 76e7ffff48f1ffff84f1ffffc0f1ffff6af3ffffa0f9ffff34fbffff
+      m_SelectedIDs: 025c0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 62cffffff0d0ffff0cd3ffff5ed4fffff6d5ffff3ad6ffffb4d7ffff3ed9ffffd2d9ffff6edaffff8cdbffffc6dcffff90deffffc6f5ffff34fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -562,7 +562,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 11}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -795,9 +795,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -9.571813, y: 0.5182609, z: -0.8497204}
+    m_Target: {x: -6.6053123, y: -1.6783485, z: -5.0074697}
     speed: 2
-    m_Value: {x: -9.571813, y: 0.5182609, z: -0.8497204}
+    m_Value: {x: -6.6053123, y: -1.6783485, z: -5.0074697}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -844,13 +844,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.13200642, y: 0.7640788, z: -0.16548751, w: -0.60933423}
+    m_Target: {x: -0.13531767, y: 0.8344157, z: -0.23520564, w: -0.47961387}
     speed: 2
-    m_Value: {x: -0.13201194, y: 0.76411074, z: -0.16549443, w: -0.6093597}
+    m_Value: {x: -0.13532366, y: 0.83445257, z: -0.23521604, w: -0.4796351}
   m_Size:
-    m_Target: 7.4554753
+    m_Target: 10.195957
     speed: 2
-    m_Value: 7.4554753
+    m_Value: 10.195957
   m_Ortho:
     m_Target: 0
     speed: 2
